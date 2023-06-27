@@ -40,7 +40,7 @@ List any prerequisites or dependencies that need to be installed on the user's m
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/anagobabatunde/coden.link.git
 2. Enter in the repository
    ```shell
    cd coden.link
