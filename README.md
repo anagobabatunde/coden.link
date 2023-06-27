@@ -41,20 +41,19 @@ List any prerequisites or dependencies that need to be installed on the user's m
 
    ```shell
    git clone https://github.com/your-username/your-repository.git
-
 2. Enter in the repository
    ```shell
    cd coden.link
-
 3. Install the dependencies
     ```shell
     make install
-
 4. Run the project
     ```shell
     make build
+5. Dont forget to change backend url in front end , actually i am using ngrok because of axios network error
 
-5. Go to the localhost, default : 3000 for backend and 8080 for frontend
+
+6. Go to the localhost, default : 3000 for backend and 8080 for frontend
  
 
  ## Usage
