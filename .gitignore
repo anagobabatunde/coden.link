@@ -1,0 +1,54 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# React.js
+/build
+/dist
+
+# Docker
+docker-compose.yml
+.dockerignore
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE/Editor
+.vscode/
+.idea/
+*.iml
+
+# Logs
+logs
+*.log
+
+# Test coverage
+/coverage
+
+# Compiled output
+*.min.js
+*.min.css
+
+# Dependencies
+package-lock.json
+yarn.lock
+
+# Build output
+/build
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Miscellaneous
+*.tmp
+*.swp
