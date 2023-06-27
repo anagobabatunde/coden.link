@@ -1,10 +1,11 @@
-# Project Name
+# DEVIO.actu
 
-A brief description of the project.
+This is a small web application that retrieves and displays the latest news from the world of technology, specifically focusing on programming
 
 ## Table of Contents
 
 - [Overview](#overview)
+- [Image](#images)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -15,6 +16,14 @@ A brief description of the project.
 ## Overview
 
 Provide an overview of the project, including its purpose, features, and any relevant details. You can mention the technologies or frameworks used, the problem the project aims to solve, and any unique aspects that make it stand out.
+
+
+## Image
+
+![Project Overview](frontend/public/overview.png)
+
+This is a small web application that retrieves and displays the latest news from the world of technology, specifically focusing on programming.
+
 
 ## Getting Started
 
