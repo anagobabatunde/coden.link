@@ -98,7 +98,7 @@ const App = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('https://9539-213-41-102-186.ngrok-free.app/news');
+        const response = await fetch('https://8dfb-213-41-102-186.ngrok-free.app/news');
         if (!response.ok) {
           throw new Error('Network response was not ok');
         }

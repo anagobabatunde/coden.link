@@ -8,8 +8,6 @@ yarn-error.log
 /dist
 
 # Docker
-docker-compose.yml
-.dockerignore
 .env
 .env.local
 .env.development.local
